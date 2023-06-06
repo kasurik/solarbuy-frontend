@@ -1,0 +1,25 @@
+/* import url("sections/header.css"); */
+
+body{
+    background-color: --bs-secondary-color;
+}
+
+.container header{
+    display:flex;
+    justify-content: left;
+    align-content: center;
+}
+
+.list-group .list-group-item {
+    background-color: transparent;
+    border-top: 1px solid #ddd;
+    border-radius: 0;
+    color: #fff;
+    border-color:transparent;
+    }
+
+    #bottom-btn{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
